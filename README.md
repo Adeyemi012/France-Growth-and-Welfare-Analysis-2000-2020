@@ -124,13 +124,22 @@ However, starting from 2006, there was a notable shift to trade deficits, where 
 This change from trade surpluses to deficits highlights evolving trade dynamics and potential economic challenges for France.
 
 ---
-![](
+![](https://github.com/Adeyemi012/France-Growth-and-Welfare-Analysis-2000-2020/blob/main/Screenshot%202024-12-18%20195951.png)
 
 **Population and Urbanization:** Over the 2000 to 2020 period, France's population saw steady growth, rising from about 60.9 million to 67.6 million. This era also witnessed significant urbanization, with the urban population expanding from around 46.2 million to 54.7 million, while the rural population decreased from 14.7 million to 12.9 million.
 
 The migration towards urban areas reflects improved opportunities and infrastructure in cities, drawing people away from rural regions. Meanwhile, the decline in rural populations suggests fewer economic opportunities, leading to migration towards urban centers.
 
 In essence, France experienced consistent population growth and notable urbanization over these two decades. Addressing the challenges of rural depopulation while managing urban expansion will be vital for sustainable development.
+
+---
+![](
+
+**Social Welfare and Public Services:** Between 2000 and 2020, France’s spending on social welfare grew significantly, with household and non-profit expenditure rising from $735.5 billion to $1.408 trillion. This increase highlights a strong commitment to supporting the population and improving social welfare programs. During the same period, the refugee population in France surged from 132,508 to 436,055, likely driving much of this spending. As more refugees arrived, the government had to increase investments in essential services like housing, healthcare, and education. This growth in expenditure reflects France’s efforts to balance social responsibilities while addressing the needs of its growing and diverse population. Managing this increase showcases the country’s dedication to supporting both its citizens and refugee communities.
+
+While for public services, spending soared from $304.9 billion to $657.7 billion, signaling a clear focus on improving infrastructure. Though fixed-line subscriptions per 100 people stayed relatively stable, the shift toward mobile and internet services became more evident, reflecting France’s adaptation to technological advancements. This rise in spending highlights efforts to modernize public services while balancing traditional infrastructure with emerging digital demands.
+
+In short, France ramped up investments in both social welfare and public services, ensuring its population is supported while keeping pace with technological and demographic changes
 
 
 
