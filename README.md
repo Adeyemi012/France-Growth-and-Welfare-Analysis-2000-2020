@@ -90,6 +90,6 @@ This approach ensured that each year’s data from all three tables could be joi
 
 ## Dashboard Overview
 
-
+![](https://github.com/Adeyemi012/France-Growth-and-Welfare-Analysis-2000-2020/blob/main/Screenshot%202024-12-18%20191527.png)
 
 
