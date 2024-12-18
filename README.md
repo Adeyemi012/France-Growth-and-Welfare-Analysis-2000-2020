@@ -104,6 +104,7 @@ The average population in France during the analyzed period was 64.75 million, s
 
 This overview provides a snapshot of key economic indicators and their trends, helping to understand France's economic trajectory over the analyzed period.
 
+---
 ![](https://github.com/Adeyemi012/France-Growth-and-Welfare-Analysis-2000-2020/blob/main/Screenshot%202024-12-18%20194415.png)
 
 **Economic Growth:** The analysis of France's GDP from 2000 to 2020 reveals a general upward trend, punctuated by significant peaks in 2008 and 2011. Despite these increases, there were noticeable fluctuations, particularly in 2009, likely due to the global financial crisis. This period reflects economic instability and challenges faced by France during that time.
@@ -113,6 +114,24 @@ Comparing GDP with Gross National Expenditure (GNE), it is evident that GNE cons
 The data from 2020 shows a decline in GDP, attributed to the global impact of the COVID-19 pandemic. This period highlights the vulnerability of economic structures to unforeseen global events.
 
 Overall, the insights suggest that while France's economy experienced periods of instability, the long-term trend indicates growth and resilience, supported by strong national expenditure. This comprehensive view provides a clear understanding of France's economic performance over the past two decades.
+
+---
+![](https://github.com/Adeyemi012/France-Growth-and-Welfare-Analysis-2000-2020/blob/main/Screenshot%202024-12-18%20194928.png)
+
+**Trade Balance:** From 2000 to 2005, France experienced trade surpluses, indicating that the country exported more goods and services than it imported during this period. For instance, in 2002, France had its highest surplus at approximately $29.0 billion.
+However, starting from 2006, there was a notable shift to trade deficits, where imports began to exceed exports. This trend continued, with deficits growing over the years, reaching a significant peak in 2020 with a deficit of around $56.3 billion.
+
+This change from trade surpluses to deficits highlights evolving trade dynamics and potential economic challenges for France.
+
+---
+![](
+
+**Population and Urbanization:** Over the 2000 to 2020 period, France's population saw steady growth, rising from about 60.9 million to 67.6 million. This era also witnessed significant urbanization, with the urban population expanding from around 46.2 million to 54.7 million, while the rural population decreased from 14.7 million to 12.9 million.
+
+The migration towards urban areas reflects improved opportunities and infrastructure in cities, drawing people away from rural regions. Meanwhile, the decline in rural populations suggests fewer economic opportunities, leading to migration towards urban centers.
+
+In essence, France experienced consistent population growth and notable urbanization over these two decades. Addressing the challenges of rural depopulation while managing urban expansion will be vital for sustainable development.
+
 
 
 
