@@ -90,6 +90,17 @@ This approach ensured that each year’s data from all three tables could be joi
 
 ## Dashboard Overview
 
+### Interact with Dashboard [here](https://app.fabric.microsoft.com/view?r=eyJrIjoiZTYxOTM0ZGYtMDU2ZS00MDU0LWI5ZjgtMzA1ODBiYThlMDg2IiwidCI6ImRhZjMyMGRmLTc4ODMtNDA0Ny1hZWVjLTAxNTliMjRkZGFmZSIsImMiOjZ9)
+
 ![](https://github.com/Adeyemi012/France-Growth-and-Welfare-Analysis-2000-2020/blob/main/Screenshot%202024-12-18%20191527.png)
+
+## Insights
+
+### KPI Overview:
+
+
+The average population in France during the analyzed period was 64.75 million, showing a steady upward trend. The total GDP over this period amounted to $50.55 trillion, with fluctuations but an overall growth pattern. The trade deficit as a percentage of GDP was -0.62%, indicating a decreasing trend over time. Additionally, the total Gross National Expenditure (GNE) reached $48.80 trillion, reflecting a consistent increase throughout the years.
+This overview provides a snapshot of key economic indicators and their trends, helping to understand France's economic trajectory over the analyzed period.
+
 
 
