@@ -104,6 +104,8 @@ The average population in France during the analyzed period was 64.75 million, s
 
 This overview provides a snapshot of key economic indicators and their trends, helping to understand France's economic trajectory over the analyzed period.
 
+![](https://github.com/Adeyemi012/France-Growth-and-Welfare-Analysis-2000-2020/blob/main/Screenshot%202024-12-18%20194415.png)
+
 **Economic Growth:** The analysis of France's GDP from 2000 to 2020 reveals a general upward trend, punctuated by significant peaks in 2008 and 2011. Despite these increases, there were noticeable fluctuations, particularly in 2009, likely due to the global financial crisis. This period reflects economic instability and challenges faced by France during that time.
 
 Comparing GDP with Gross National Expenditure (GNE), it is evident that GNE consistently exceeded GDP. This indicates substantial consumer and government spending, which played a critical role in driving economic activities. Post-2010, GDP showed recovery, peaking in 2018 before experiencing slight declines in subsequent years, likely influenced by various global market conditions.
